@@ -4,8 +4,10 @@ Moreover the model trained on the Real and Fake image classification is further 
 <br><h2>Links to Dataset:-</h2>
 <br>GAN generated images:- [Style GAN1](https://drive.google.com/drive/folders/14lm8VRN1pr4g_KVe6_LvyDX1PObst6d4) , [Style GAN2](https://drive.google.com/drive/folders/1-0YhtXe_oE2ei0R471X33a_NJyY5dVge) , [Style GAN3](https://nvlabs-fi-cdn.nvidia.com/stylegan3/images/) , [PGGAN](https://drive.google.com/drive/folders/1jU-hzyvDZNn_M3ucuvs9xxtJNc9bPLGJ) , [Other GANs](https://drive.google.com/drive/folders/11E0Knf9J1qlv2UuTnJSOFUjIIi90czSj).
 <br>Real Images:- [CelebA dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
-<br>After the completion of 5 epochs, the model has attained the accuracy of 99%.
+<br><h2>Links to Pretrained models</h2>
+<br>Real-Fake Classifier :- [model_1](https://drive.google.com/file/d/1-kaHUphWxabHs5PRfNPpwzZoO_GQJXnJ/view?usp=drive_link)
 <br><h2>Results:-</h2>
+<br>After the completion of 5 epochs, the model has attained the accuracy of 99%.
 <br><h3>Training History</h3>
 <br>![image](https://github.com/user-attachments/assets/8935cbac-bcc4-42ef-b637-dd9973216a99)
 <br><h3>Confusion Matrix</h3>
